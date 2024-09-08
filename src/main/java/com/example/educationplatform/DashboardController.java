@@ -72,6 +72,7 @@ public class DashboardController {
             new String[]{"Embrace the challenge, celebrate the progress.", "Anonymous"}
     );
 
+
     private Random random = new Random();
 
     @FXML
